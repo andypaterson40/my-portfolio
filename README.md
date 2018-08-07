@@ -1,2 +1,3 @@
-# my-portfolio
-This is my first professional portfolio
+# Andrew Paterson's portfolio
+
+This is my professional portfolio. It uses aAWS and ReactJS
