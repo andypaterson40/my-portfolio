@@ -7,6 +7,8 @@ const myWork = [
     'title': "AWS",
     'href': "https://example.com",
     'desc': "List of personal and professional work within AWS",
+    'desc_1': "Working with global financial organisation to onboard onto AWS",
+    'desc_2': "This website is run using AWS Codebuild, CodePipeline, S3, Lambda, SNS and GitHub",
     'image': {
       'desc': "AWS logo",
       'src': "images/aws_logo_smile.png",

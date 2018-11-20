@@ -26,6 +26,10 @@ class ExampleWorkModal extends React.Component {
           <p className="modal__description">
             { example.desc }
           </p>
+          <ul>
+            <li>{ example.desc_1 }</li>
+            <li>{ example.desc_2 }</li>
+          </ul>
         </div>
       </div>
     )
