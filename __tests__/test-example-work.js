@@ -8,10 +8,10 @@ Enzyme.configure({ adapter: new Adapter() });
 
 const myWork = [
   {
-    'title': "Work Example",
+    'title': "AWS",
     'image': {
-      'desc': "example screenshot of a project involving code",
-      'src': "images/example1.png",
+      'desc': "example screenshot of a AWS image",
+      'src': "images/aws_logo_smile.png",
       'comment': ""
     }
   },
